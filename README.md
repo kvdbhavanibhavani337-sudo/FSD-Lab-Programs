@@ -1,27 +1,34 @@
 # FSD Lab Programs
 
-This repository contains my Full Stack Development (FSD) Lab programs and practice work.
+A collection of Full Stack Development lab programs and practice exercises developed as part of my BTech CSE coursework.
 
 ## Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
+- HTML5
+- CSS3
+- JavaScript
+- React.js
 
 ## Programs Included
 
-* HTML Programs
-* JavaScript Programs
-* DOM and Selectors
-* React Programs
-* Other Full Stack Development Lab Exercises
+- HTML Lab Programs
+- JavaScript Programs
+- DOM and Selectors
+- React Programs
+- Full Stack Development Lab Exercises
+
+## Repository Structure
+
+- `HTML/` – HTML lab programs
+- `JavaScript/` – JavaScript and DOM programs
+- `React/` – React lab practice
+- `bhavani/` – React project files
 
 ## Purpose
 
-This repository is created to maintain and document my FSD Lab programs, practical exercises, and learning progress.
+This repository documents my practical learning, lab exercises, and progress in Full Stack Development.
 
 ## Author
 
-**Bhavani**
+**Bhavani**  
 BTech – Computer Science and Engineering
