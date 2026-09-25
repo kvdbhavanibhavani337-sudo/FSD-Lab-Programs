@@ -1,0 +1,15 @@
+import React{component}from'react';
+class counter extends component{
+    state={count:0};
+    increment count=0=>this.set state({count:this.state.counter});
+    render(){
+        return(
+            <div>
+                <h1>counter using class component</h1>
+                <p>count:{this.state.count}</p>
+                <button>on click={this.increment count}>increment</button>
+            </div>
+        );
+    }
+}
+export default counter;

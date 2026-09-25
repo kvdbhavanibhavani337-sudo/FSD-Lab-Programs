@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Event Listener Example</title>
+    </head>
+    <body>
+        <h2>Event Listener Demo</h2>
+        <button id="btn1">click me</button>
+        <button id="btn2">change color</button>
+        <p id="Message">watch this text change!</p>
+        <script>
+            document.getElementById("btn1").addEventListener("click",function(){
+                alert("Button 1 was clicked!");
+            });
+            document.getElementById("btn2").addEventListener("click",function(){
+          document.getElementById("message").style.color="red";
+          document.getElementById("message").textcontent="the text color is now red!";
+          });
+        </script>
+    </body>
+</html>
